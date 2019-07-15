@@ -8,11 +8,11 @@
 !*** Initialization and Login to Tempo
 
 !| script             |com.appiancorp.ps.automatedtest.fixture.TempoFixture|
-|setup with           |FIREFOX                   |browser                  |
-|set appian url to    |APPIAN_URL                                          |
-|set appian version to|APPIAN_VERSION                                      |
-|set appian locale to |APPIAN_LOCALE                                       |
-|login with username  |APPIAN_USERNAME                                     |
+|setup with           |CHROME                   |browser                   | 
+|set appian url to    |https://snlperf.appiancloud.com/suite               |
+|set appian version to|19.1                                                | 
+|set appian locale to |en-US                                               |
+|login with username  |appianreleaseadmin                                  |
 ***!
 !*** Click on all the tabs
 
