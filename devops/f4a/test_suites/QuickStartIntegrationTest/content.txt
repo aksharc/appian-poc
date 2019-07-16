@@ -12,7 +12,7 @@
 |set appian url to    |https://snlperf.appiancloud.com/suite               |
 |set appian version to|19.1                                                | 
 |set appian locale to |en-US                                               |
-|login with username  |appianreleaseadmin                                  |
+|login with username  |achauhan                                            |  
 ***!
 !*** Click on all the tabs
 
